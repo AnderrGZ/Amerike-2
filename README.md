@@ -13,3 +13,9 @@
 
 # Fundamentos de los computadores: RODRIGUEZ PANTOJA REBECA
 ## Esta matería te da una vista diferente de como surgieron los computadores desde el inicio de esta era de la tecnologia como sus creadores y diferentes tipos de capas de red.
+
+
+
+
+# Introducción a la ciberseguridad:     CORREA CASTILLO DARYL
+## Esta matería te enseña a como surgió esta area de la informatica como los tipos de redes que existen, como encontrar las ubicaciones de paginas web con la IP publica que te ofrece la compañia de internet hasta cosas más avanzadas como el pishing o metodos de robo de credenciales.

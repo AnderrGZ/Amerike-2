@@ -19,3 +19,8 @@
 
 # Introducción a la ciberseguridad:     CORREA CASTILLO DARYL
 ## Esta matería te enseña a como surgió esta area de la informatica como los tipos de redes que existen, como encontrar las ubicaciones de paginas web con la IP publica que te ofrece la compañia de internet hasta cosas más avanzadas como el pishing o metodos de robo de credenciales.
+
+
+
+# Programación: MIRANDA CHARLES JONATHAN ULISES
+## Esta matería te enseña desde 0 que es la programación, como puedes iniciar a trabajar con Git y Github, aplicaciones que se usarán en la vida cotidiana si te vas a dedicar a trabajar programación o cosas por el estilo ya que es un software muy facil de entender y comodo para los usuarios que lo usan.

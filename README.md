@@ -30,3 +30,5 @@
 [Enlace al repositorio de la Práctica 5](https://github.com/AnderrGZ/Practica-02)
 
 # Creando la versión 1.0.0 de este repositorio.
+
+# Creando la versión 1.1.0 de este repositorio.

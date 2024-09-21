@@ -32,3 +32,6 @@
 # Creando la versión 1.0.0 de este repositorio.
 
 # Creando la versión 1.1.0 de este repositorio.
+# o.O
+
+[Enlace al repositorio de la Práctica 7](https://github.com/AnderrGZ/Practica-07)

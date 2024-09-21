@@ -1,0 +1,81 @@
+commit 233d1c942198b6d6b96f484d2a69010186e9bce9
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:33:25 2024 -0600
+
+    Corrigiendo errores
+
+commit 7b3cc8925f4d01689233839d55a5197b974b1d5a
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:33:00 2024 -0600
+
+    Agregando link para enlace a la practica 5
+
+commit f126e45d65cd5b7028a87dae7c41214a44be16aa
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:32:09 2024 -0600
+
+    Agregando enlace en la practica 5
+
+commit 2f0b06e698d04007e3c33aaa71bf8080dbe744f5
+Merge: bd08065 8ffcfcb
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:29:26 2024 -0600
+
+    Fusionando programacion con main
+
+commit bd08065c43f862bfbb5287693f1331d6e560da00
+Merge: bb224a7 7d5eb12
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:28:49 2024 -0600
+
+    Fusionando Introduccion con main
+
+commit bb224a7576945175632baeb0cdb69f379d9d4fe8
+Merge: ddc6322 5d7e7c8
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:28:02 2024 -0600
+
+    Fusionando Fundamentos con main
+
+commit ddc632268b8fa19deb16e9c5f780f699a3351a34
+Merge: 706edea e1b77aa
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:26:32 2024 -0600
+
+    Fusinando Matematicas con main
+
+commit 8ffcfcb51a02f28c49c201ca6a628afeba7df6de
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:25:10 2024 -0600
+
+    Agregando Programacion como rama
+
+commit 7d5eb12ea54536e806fc996c381c695dad4b4e34
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:23:29 2024 -0600
+
+    Agregando Introduccion como rama
+
+commit 5d7e7c8a90631f918b1fcfffdeb4bb427a8528bd
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:22:19 2024 -0600
+
+    Agregando fundamentos como rama
+
+commit e1b77aac4ee36906e367186ae32f4252edcc81b5
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:21:14 2024 -0600
+
+    Agregando Matematicas como rama
+
+commit 706edea79c689be008ef9763740aa1b586418109
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:19:31 2024 -0600
+
+    Agregando Algebra como rama
+
+commit 47c82c9fdb5f239a6ba0a0b7f607d41e3d7e54f3
+Author: Ander Garzon <thedarkp4rk@gmail.com>
+Date:   Tue Sep 17 17:18:31 2024 -0600
+
+    Agregando mi nombre

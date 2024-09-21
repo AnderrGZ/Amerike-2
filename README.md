@@ -28,3 +28,5 @@
 [Enlace al repositorio de la Práctica 6](https://github.com/AnderrGZ/Amerike-2)
 
 [Enlace al repositorio de la Práctica 5](https://github.com/AnderrGZ/Practica-02)
+
+# Creando la versión 1.0.0 de este repositorio.
